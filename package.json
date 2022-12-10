@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuynh017/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhuynh017/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/bhuynh017/Team-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "inquirer": "^9.1.4",
+    "jest": "^29.3.1"
+  }
+}
