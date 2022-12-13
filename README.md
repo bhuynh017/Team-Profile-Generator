@@ -1,6 +1,7 @@
 # Team-Profile-Generator
 
 ## GitHub 
+* https://bhuynh017.github.io/Team-Profile-Generator/
 
 ## Walkthrough video
 
